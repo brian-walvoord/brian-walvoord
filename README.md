@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @brian-walvoord
-- 👀 I’m interested in learning Japanese and learning to code.
-- 🌱 I’m currently learning Javascript, CSS, HTML
-- 💞️ I’m looking to collaborate on something...
-- 📫 How to reach me: idk
+👋 Hello, I'm Brian. I am an aspiring software engineer and have used JS, CSS, HTML, and a little Node.js in my web development projects. I have been a music teacher for 5 years, and now teach English in Japan. I love living in Japan, enough that I may stay long-term (undecided)! I am originally from the United States. My hobbies include cycling, watching movies, traveling, coding, and using the oxford comma ;)
+
 
 <!---
 brian-walvoord/brian-walvoord is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
