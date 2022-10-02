@@ -1,5 +1,5 @@
 <h2><img src="https://i.pinimg.com/originals/4a/7c/82/4a7c82f1225811fee292489f489c3770.gif" height="25"> Hello! My name is Brian. I'm from <img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" height="20"> America, currently living in <img src="https://cdn-icons-png.flaticon.com/512/619/619044.png" height="20"> Japan.</h2>
-<h4>I'm a self-taught programmer and an aspiring software engineer. I enjoy watching 🎥movies, 🚴cycling, and 🎼making music. Thanks for visiting my profile!</h4>
+<h4>I'm a self-taught programmer and an aspiring full stack developer. I enjoy watching 🎥movies, 🚴cycling, and 🎼making music. Thanks for visiting my profile!</h4>
 <h3>My Languages and Tools:</h3>
 
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
