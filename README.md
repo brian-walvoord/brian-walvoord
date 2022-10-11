@@ -5,6 +5,8 @@
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg
+" style="padding-right:10px;" />
 <img align="left" alt="Node" width="26px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" style="padding-right:10px;" />
 <img align="left" alt="Knex" width="26px" src="https://symbols.getvecta.com/stencil_261/21_knexjs.8731e50a04.svg" style="padding-right:10px;" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" style="padding-right:10px;" />
