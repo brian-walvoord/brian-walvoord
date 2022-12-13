@@ -8,12 +8,12 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" /></a>
 <a href="https://reactjs.org/"><img align="left" alt="React" width="26px" src="https://cdn.worldvectorlogo.com/logos/react-1.svg" /></a>
 <a href="https://getbootstrap.com/"><img align="left" alt="Bootstrap" width="34px" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" /></a>
+<a href="https://www.python.org/"><img align="left" alt="Python3" width="30px" src="https://img.icons8.com/color/512/python.png" /></a>
+<a href="https://www.djangoproject.com/"><img align="left" alt="Django" width="30px" src="https://www.svgrepo.com/show/353657/django-icon.svg" /></a>
 <a href="https://nodejs.org/en/"><img align="left" alt="Node" width="26px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" style="padding-right:10px;" /></a>
 <a href="https://www.mongodb.com/home"><img align="left" alt="MongoDB" width="26px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" style="padding-right:10px;" /></a>
 <a href="https://www.postgresql.org/"><img align="left" alt="PostgreSQL" width="26px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" style="padding-right:10px;" /></a>
 <a href="https://git-scm.com/"><img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" /></a>
-<a href="https://github.com/"><img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" /></a>
-<a href="https://code.visualstudio.com/"><img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" /></a>
 
 
 <img align="left" alt="" width="26px" src="" />
