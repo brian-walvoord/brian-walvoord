@@ -15,8 +15,8 @@
 <a href="https://nodejs.org/en/"><img align="left" alt="Node" width="26px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" style="padding-right:10px;" /></a>
 <a href="https://www.python.org/"><img align="left" alt="Python3" width="30px" src="https://img.icons8.com/color/512/python.png" /></a>
 <a href="https://www.djangoproject.com/"><img align="left" alt="Django" width="30px" src="https://www.svgrepo.com/show/353657/django-icon.svg" /></a>
-<a href="https://www.mongodb.com/home"><img align="left" alt="MongoDB" width="26px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" style="padding-right:10px;" /></a>
 <a href="https://www.postgresql.org/"><img align="left" alt="PostgreSQL" width="26px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" style="padding-right:10px;" /></a>
+<a href="https://www.mongodb.com/home"><img align="left" alt="MongoDB" width="26px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" style="padding-right:10px;" /></a>
 <a href="https://vercel.com/dashboard"><img align="left" alt="Vercel" width="26px" src="https://camo.githubusercontent.com/add2c9721e333f0043ac938f3dadbc26a282776e01b95b308fcaba5afaf74ae3/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313538383830353835382f7265706f7369746f726965732f76657263656c2f6c6f676f2e706e67" /></a>
 <a href="https://git-scm.com/"><img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" /></a>
 
