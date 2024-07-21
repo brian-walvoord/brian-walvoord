@@ -1,4 +1,4 @@
-<h2><img src="https://i.pinimg.com/originals/4a/7c/82/4a7c82f1225811fee292489f489c3770.gif" height="25"> Hello! My name is Brian. I'm from <img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" height="20"> America, currently living in <img src="https://cdn-icons-png.flaticon.com/512/619/619044.png" height="20"> Japan.</h2>
+<h2><img src="https://i.pinimg.com/originals/4a/7c/82/4a7c82f1225811fee292489f489c3770.gif" height="25"> Hello! My name is Brian. I'm from <img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" height="20"> America, currently a Software Engineering Student at the University of Nebraska-Lincoln.</h2>
 <h4>I'm a full-stack developer and enjoy working on exciting and collaborative projects. I enjoy watching 🎥movies, 🚴cycling, and 🎼making music. Check out <a href="https://brian-walvoord.com">my portfolio</a> to see some of the products I've built.</h4>
 
 <h3>My Languages and Tools:</h3>
